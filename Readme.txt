@@ -1,1 +1,2 @@
-The .scss (Sass) files are only avilable in the pro version. You can buy it from: https://bootstrapmade.com/upconstruction-bootstrap-construction-website-template/
+Find the Attached RS-Constructions With the Template , Form Validation 
+Hope you all make use of it
